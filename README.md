@@ -13,7 +13,8 @@ pentameter is five iambic feet in a row:
 
 `da DUM da DUM da DUM da DUM da DUM`
 
-An example from Shakespeare:
+The da-DUM of a human heartbeat is the most common example of this rhythm. An
+ example from Shakespeare:
 
 "When I do count the clock that tells the time"
 
@@ -24,17 +25,17 @@ following in the command prompt:
 
 
 Iambic pentameters in Ulysses:
->A stick and an umbrella dangled to
+>a stick and an umbrella dangled to
 
->The daughter of the skies the virgin moon 
+>themselves in stylish garters leaping from 
 
->Addicted runs directly counter to 
+>addicted runs directly counter to 
 
->Themselves in stylish garters leaping from 
+>the daughter of the skies the virgin moon 
 
 References
 ----------
-  - [Ulysses](https://www.gutenberg.org/ebooks/4300) by James Joyce
+[Ulysses](https://www.gutenberg.org/ebooks/4300)by James Joyce
 
 This eBook is for the use of anyone anywhere at no cost and with almost no 
 restrictions whatsoever.  You may copy it, give it away or re-use it under 
