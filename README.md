@@ -1,14 +1,14 @@
 Iambitize
 ==========
 
-Iambitize is a program that creates iambic pentameters out of any text corpus. 
-It requires Python 2.7, pronouncing, and some other standard Python modules to 
-run properly.
+Iambitize is a program that extracts and creates iambic pentameters out of any 
+text corpus. It requires Python 2.7, pronouncing, and some other standard Python
+ modules to run properly.
 
 An iambic pentameter is a type of metrical line often found in traditional 
-English poetry. The term describes the rhythm the words establish in a line, 
-which is measured in feet, or small groups of syllables. An iambic foot is an
- unstressed syllable followed by a stressed syllable. A standard line of iambic 
+English poetry. The term describes the rhythm of the words in a line, which is 
+measured in feet, or small groups of syllables. An iambic foot is an 
+unstressed syllable followed by a stressed syllable. A standard line of iambic 
 pentameter is five iambic feet in a row:
 
 `da DUM da DUM da DUM da DUM da DUM`
@@ -16,7 +16,7 @@ pentameter is five iambic feet in a row:
 The da-DUM of a human heartbeat is the most common example of this rhythm. An
  example from Shakespeare:
 
-"When I do count the clock that tells the time"
+>"When I do count the clock that tells the time"
 
 To run, download the files along with any text corpus, and enter the 
 following in the command prompt:
@@ -24,18 +24,18 @@ following in the command prompt:
     $ python iambitize.py [text corpus].txt
 
 
-Iambic pentameters in Ulysses:
->a stick and an umbrella dangled to
+After running it on Ulysses, these Iambic pentameters were extracted:
+>"a stick and an umbrella dangled to"
 
->themselves in stylish garters leaping from 
+>"themselves in stylish garters leaping from"
 
->addicted runs directly counter to 
+>"addicted runs directly counter to"
 
->the daughter of the skies the virgin moon 
+>"the daughter of the skies the virgin moon"
 
 References
 ----------
-[Ulysses](https://www.gutenberg.org/ebooks/4300)by James Joyce
+[Ulysses](https://www.gutenberg.org/ebooks/4300) by James Joyce
 
 This eBook is for the use of anyone anywhere at no cost and with almost no 
 restrictions whatsoever.  You may copy it, give it away or re-use it under 
