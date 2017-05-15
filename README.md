@@ -24,19 +24,16 @@ following in the command prompt:
 
 
 Iambic pentameters in Ulysses:
->a stick and an umbrella dangled to
+>A stick and an umbrella dangled to
 
->the daughter of the skies the virgin moon 
+>The daughter of the skies the virgin moon 
 
->addicted runs directly counter to 
+>Addicted runs directly counter to 
 
->themselves in stylish garters leaping from 
+>Themselves in stylish garters leaping from 
 
 References
 ----------
-
-  - [The Wonderful Wizard of Oz](http://www.gutenberg.org/cache/epub/55)by L. 
-Frank Baum
   - [Ulysses](https://www.gutenberg.org/ebooks/4300) by James Joyce
 
 This eBook is for the use of anyone anywhere at no cost and with almost no 
